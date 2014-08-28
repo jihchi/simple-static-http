@@ -3,7 +3,7 @@
 ## Dependencies
 
 ```shell
-$ go get -d github.com/yookoala/realpath
+$ go get -u github.com/yookoala/realpath
 $ go get -u github.com/daaku/go.httpgzip
 ```
 
